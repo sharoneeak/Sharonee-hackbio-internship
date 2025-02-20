@@ -1,1 +1,65 @@
+Glycine = [
+    { "Name": "Fowowe Toyin",
+      "Slack username": "Toyin",
+      "Email": "toyintoyo05@gmail.com",
+      "Hobby": "reading and listening to music",
+      "Country": "Nigeria",
+      "Discipline": "Biochemistry",
+      "Preferred programming language": "Python" },
+    {
+      "Name": "Nina Julian",
+      "Slack username": "Julian",
+      "Email": "anyangonina39@gmail.com",
+      "Hobby": "listening to music",
+      "Country": "Kenya",
+      "Discipline": "Biomedical science and Technology",
+      "Preferred programming language": "R"},
+    {
+      "Name": "Aghimien Osato Elizabeth",
+      "Slack username": "osato",
+      "Email": "osatoelizabeth@gmail.com",
+      "Hobby": "listening to music",
+      "Country": "Nigeria",
+      "Discipline": "Microbiology",
+      "Preferred programming language": "R"},
+    {
+      "Name": "Sharon Akinpelu",
+      "Slack username": "Sharonee",
+      "Email": "akinpelutobi07@yahoo.com",
+      "Hobby": "listening to music",
+      "Country": "Nigeria",
+      "Discipline": "Microbiology",
+      "Preferred programming language": "Python"}
+]
 
+print(f"Name: {Glycine[0]['Name']}")
+print(f"Slack Username: {Glycine[0]['Slack username']}")
+print(f"Email: {Glycine[0]['Email']}")
+print(f"Hobby: {Glycine[0]['Hobby']}")
+print(f"Country: {Glycine[0]['Country']}")
+print(f"Discipline: {Glycine[0]['Discipline']}")
+print(f"Preferred Programming Language: {Glycine[0]['Preferred programming language']}")
+
+print(f"Name: {Glycine[1]['Name']}")
+print(f"Slack Username: {Glycine[1]['Slack username']}")
+print(f"Email: {Glycine[1]['Email']}")
+print(f"Hobby: {Glycine[1]['Hobby']}")
+print(f"Country: {Glycine[1]['Country']}")
+print(f"Discipline: {Glycine[1]['Discipline']}")
+print(f"Preferred Programming Language: {Glycine[1]['Preferred programming language']}")
+
+print(f"Name: {Glycine[2]['Name']}")
+print(f"Slack Username: {Glycine[2]['Slack username']}")
+print(f"Email: {Glycine[2]['Email']}")
+print(f"Hobby: {Glycine[2]['Hobby']}")
+print(f"Country: {Glycine[2]['Country']}")
+print(f"Discipline: {Glycine[2]['Discipline']}")
+print(f"Preferred Programming Language: {Glycine[2]['Preferred programming language']}")
+
+print(f"Name: {Glycine[3]['Name']}")
+print(f"Slack Username: {Glycine[3]['Slack username']}")
+print(f"Email: {Glycine[3]['Email']}")
+print(f"Hobby: {Glycine[3]['Hobby']}")
+print(f"Country: {Glycine[3]['Country']}")
+print(f"Discipline: {Glycine[3]['Discipline']}")
+print(f"Preferred Programming Language: {Glycine[3]['Preferred programming language']}")
