@@ -1,1 +1,1 @@
-It was instructed that any data structure of one's choice should be used to organize the following information: names, Slack username, email, hobby, countries, discipline, and preferred programming language. It was also stated that functions, loops, conditionals, or any complex concepts should not be used. Additionally, it was mentioned that the code should include a final print statement that displays the organized output in a logical and understandable way.
+
